@@ -1,0 +1,85 @@
+order_id item_name choice_description item_price
+1 Corn chip [Corn,Barley,Potato,Cheese,Sour cream,Sugar] $10
+1 Corn chip [Corn,Barley,Potato,Cheese,Sour cream,Sugar] $10
+1 Corn chip [Corn,Barley,Potato,Cheese,Sour cream,Sugar] $10
+1 Corn chip [Corn,Barley,Potato,Cheese,Sour cream,Sugar] $10
+2 Tomato chip [Tomato(Fruit),Tomato(Vegetable),Potato,Cheese,Sour cream,Corn] $10
+2 Tomato chip [Tomato(Fruit),Tomato(Vegetable),Potato,Cheese,Sour cream,Corn] $10
+2 Tomato chip [Tomato(Fruit),Tomato(Vegetable),Potato,Cheese,Sour cream,Corn] $10
+3 Greenchip [Green Vegetables,Corn,Milk,Tomato,Potato,Black beans] $10
+3 Greenchip [Green Vegetables,Corn,Milk,Tomato,Potato,Black beans] $10
+4 Fried cheese pork chop [Cheese,Pork,Black beans,Lettuce,Salt,Hydrochloric] $18
+4 Fried cheese pork chop [Cheese,Pork,Black beans,Lettuce,Salt,Hydrochloric] $18
+4 Fried cheese pork chop [Cheese,Pork,Black beans,Lettuce,Salt,Hydrochloric] $18
+4 Fried cheese pork chop [Cheese,Pork,Black beans,Lettuce,Salt,Hydrochloric] $18
+4 Fried cheese pork chop [Cheese,Pork,Black beans,Lettuce,Salt,Hydrochloric] $18
+4 Fried cheese pork chop [Cheese,Pork,Black beans,Lettuce,Salt,Hydrochloric] $18
+5 Corn cake [Flour,Milk,Sugar,Corn,Sesame,Barley]
+5 Corn cake [Flour,Milk,Sugar,Corn,Sesame,Barley]
+5 Corn cake [Flour,Milk,Sugar,Corn,Sesame,Barley]
+5 Corn cake [Flour,Milk,Sugar,Corn,Sesame,Barley]
+5 Corn cake [Flour,Milk,Sugar,Corn,Sesame,Barley]
+6 Sesame cake [Flour,Milk,Sugar,Sesame,Barley,Butter] $15
+6 Sesame cake [Flour,Milk,Sugar,Sesame,Barley,Butter] $15
+6 Sesame cake [Flour,Milk,Sugar,Sesame,Barley,Butter] $15
+6 Sesame cake [Flour,Milk,Sugar,Sesame,Barley,Butter] $15
+7 Butter cake [Flour,Sugar,Milk,Butter,Cheese,Sour cream] $15
+7 Butter cake [Flour,Sugar,Milk,Butter,Cheese,Sour cream] $15
+8 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
+8 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
+8 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
+8 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
+8 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
+8 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
+9 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+9 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+9 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+9 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+9 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+9 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+10 Chips and guacamole [Rice,Black Beans,Cheese,Corn,Guacamole,Lettuce] $13
+11 Black beans [Black Beans,Chicken,Guacamole,Cheese,Sour Cream,Lettuce] $13
+12 Strawberry cream [Strawberry,Orange,Grape,Watermelon,Cheese,Sour Cream] $16
+12 Strawberry cream [Strawberry,Orange,Grape,Watermelon,Cheese,Sour Cream] $16
+12 Strawberry cream [Strawberry,Orange,Grape,Watermelon,Cheese,Sour Cream] $16
+12 Strawberry cream [Strawberry,Orange,Grape,Watermelon,Cheese,Sour Cream] $16
+12 Strawberry cream [Strawberry,Orange,Grape,Watermelon,Cheese,Sour Cream] $16
+12 Strawberry cream [Strawberry,Orange,Grape,Watermelon,Cheese,Sour Cream] $16
+13 White rice [Rice,Barley,Clam,Cheese,Soft wire,Lettuce] $12
+13 White rice [Rice,Barley,Clam,Cheese,Soft wire,Lettuce] $12
+13 White rice [Rice,Barley,Clam,Cheese,Soft wire,Lettuce] $12
+13 White rice [Rice,Barley,Clam,Cheese,Soft wire,Lettuce] $12
+14 Purple rice [Rice,Purple Barley,Clam,Cheese,Sour cream,Lettuce] $16
+14 Purple rice [Rice,Purple Barley,Clam,Cheese,Sour cream,Lettuce] $16
+14 Purple rice [Rice,Purple Barley,Clam,Cheese,Sour cream,Lettuce] $16
+15 Chicken rice [Rice,Barley,Chicken,Cheese,Clam,Lettuce] $12
+15 Chicken rice [Rice,Barley,Chicken,Cheese,Clam,Lettuce] $12
+15 Chicken rice [Rice,Barley,Chicken,Cheese,Clam,Lettuce] $12
+15 Chicken rice [Rice,Barley,Chicken,Cheese,Clam,Lettuce] $12
+16 German vegetables [Green Vegetables,Tomato,Potato,Corn,Black beans,Sausage] $14
+16 German vegetables [Green Vegetables,Tomato,Potato,Corn,Black beans,Sausage] $14
+17 Italian vegetables [Green Vegetables,Tomato,Potato,Cheese,Black beans,Corn] $18
+17 Italian vegetables [Green Vegetables,Tomato,Potato,Cheese,Black beans,Corn] $18
+17 Italian vegetables [Green Vegetables,Tomato,Potato,Cheese,Black beans,Corn] $18
+17 Italian vegetables [Green Vegetables,Tomato,Potato,Cheese,Black beans,Corn] $18
+18 Chicken soft tacos [Corn,Rice,Chicken,Cheese,Barley,Lettuce] $18
+18 Chicken soft tacos [Corn,Rice,Chicken,Cheese,Barley,Lettuce] $18
+18 Chicken soft tacos [Corn,Rice,Chicken,Cheese,Barley,Lettuce] $18
+18 Chicken soft tacos [Corn,Rice,Chicken,Cheese,Barley,Lettuce] $18
+19 Tomatillo green chili salsa [Rice,Black Beans,Clam,Cheese,Sour Cream,Lettuce] $14
+19 Tomatillo green chili salsa [Rice,Black Beans,Clam,Cheese,Sour Cream,Lettuce] $14
+19 Tomatillo green chili salsa [Rice,Black Beans,Clam,Cheese,Sour Cream,Lettuce] $14
+19 Tomatillo green chili salsa [Rice,Black Beans,Clam,Cheese,Sour Cream,Lettuce] $14
+19 Tomatillo green chili salsa [Rice,Black Beans,Clam,Cheese,Sour Cream,Lettuce] $14
+19 Tomatillo green chili salsa [Rice,Black Beans,Clam,Cheese,Sour Cream,Lettuce] $14
+20 Barley tea [Barley,Green tea,Bubble tea,Cheese,Sour cream,Vegetables] $8
+21 Miso soup [Miso,Soup,Green onion,Tofu,Onion,Kelp] $8
+21 Miso soup [Miso,Soup,Green onion,Tofu,Onion,Kelp] $8
+21 Miso soup [Miso,Soup,Green onion,Tofu,Onion,Kelp] $8
+21 Miso soup [Miso,Soup,Green onion,Tofu,Onion,Kelp] $8
+21 Miso soup [Miso,Soup,Green onion,Tofu,Onion,Kelp] $8
+21 Miso soup [Miso,Soup,Green onion,Tofu,Onion,Kelp] $8
+22 Hydrochloric [Salt,Lemon,Sugar,Vegetables,Black beans,Cheese] $8
+22 Hydrochloric [Salt,Lemon,Sugar,Vegetables,Black beans,Cheese] $8
+22 Hydrochloric [Salt,Lemon,Sugar,Vegetables,Black beans,Cheese] $8
+22 Hydrochloric [Salt,Lemon,Sugar,Vegetables,Black beans,Cheese] $8
