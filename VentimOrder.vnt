@@ -24,7 +24,7 @@ order_id quantity item_name choice_description item_price
 6 7 Sesame cake [Flour,Milk,Sugar,Sesame,Barley,Butter] $15
 6 7 Sesame cake [Flour,Milk,Sugar,Sesame,Barley,Butter] $15
 7 7 Butter cake [Flour,Sugar,Milk,Butter,Cheese,Sour cream] $15
-7 7 Butter cake [Flour,Sugar,Milk,Butter,Cheese,Sour cream] $15
+7 6 Butter cake [Flour,Sugar,Milk,Butter,Cheese,Sour cream] $15
 8 7 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
 8 7 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
 8 7 Chicken bowl [Rice,Black Beans,Cheese,Sour Cream,Chicken,Lettuce] $12
@@ -35,7 +35,7 @@ order_id quantity item_name choice_description item_price
 9 7 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
 9 7 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
 9 6 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
-9 7 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
+9 6 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
 9 7 Popcorn bowl [Rice,Black Beans,Corn,Cheese,Popcorn,Lettuce] $12
 10 5 Chips and guacamole [Rice,Black Beans,Cheese,Corn,Guacamole,Lettuce] $13
 11 5 Black beans [Black Beans,Chicken,Guacamole,Cheese,Sour Cream,Lettuce] $13
