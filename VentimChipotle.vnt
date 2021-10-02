@@ -72,7 +72,7 @@ order_id,quantity,item_name,choice_description,item_price
 19,1,Steak Soft Tacos,[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]],$8.75 
 19,1,Steak Burrito,[Tomatillo Green Chili Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]],$8.75 
 19,1,Steak Bowl,[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]],$8.75 
-20,2,Chicken Bowl,[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]
+20,2,Chicken Bowl,[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]],$8.21
 21,1,Canned Milk(Kellied),NULL,$2.51 
 21,2,Canned Soda(Mild),NULL,$2.63 
 21,1,Canned Tea(Millied),NULL,$2.26 
