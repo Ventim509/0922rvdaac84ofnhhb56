@@ -80,6 +80,6 @@ order_id,quantity,item_name,choice_description,item_price
 21,1,Bottled Soda(Millied),NULL,$2.63 
 21,2,Bottled Tea(Kellied),NULL,$2.26 
 22,1,Chicken Crispy Tacos,[Tomatillo Okra Chili Salsa, [Rice, Okra, Cheese, Lettuce]],$9.09 
-22,4,Chicken Soft Tacos,[Fresh Okra Salsa, [Okra, Cheese, Lettuce]],$9.18 
-22,1,Steak Crispy Tacos,[Fresh Okra Salsa, [Okra, Cheese, Sour Cream, Lettuce]],$9.09 
+22,4,Chicken Soft Tacos,[Fresh Okra Salsa, [Okra, Black Beans, Cheese, Lettuce]],$9.18 
+22,1,Steak Crispy Tacos,[Fresh Okra Salsa, [Okra, Black Beans, Cheese, Sour Cream, Lettuce]],$9.09 
 22,1,Steak Soft Tacos,[Tomatillo Okra Chili Salsa, [Rice, Okra, Cheese, Sour Cream, Lettuce]],$9.18 
