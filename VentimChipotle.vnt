@@ -1,8 +1,8 @@
 order_id,quantity,item_name,choice_description,item_price 
 1,1,Chicken Bowl,[Fresh Tomato Salsa(Mild), [Cheese, Lettuce]],$8.68 
 1,1,Chicken Burrito,[Fresh Tomato Salsa, [Pinto Beans, Green Beans, Cheese, Lettuce]],$9.00 
-1,1,Chicken Salad [Tomatillo Green Pepper Salsa, [Pinto Beans, Guacamole, Sour Cream, Lettuce]],$8.46 
-1,1,Chicken Soft Tacos [Tomatillo Green Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]],$8.46 
+1,1,Chicken Salad,[Tomatillo Green Pepper Salsa, [Pinto Beans, Guacamole, Sour Cream, Lettuce]],$8.46 
+1,1,Chicken Soft Tacos,[Tomatillo Green Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]],$8.46 
 2,1,Chicken Crispy Tacos,[Fresh Tomato Salsa, [Green Beans, Cheese, Lettuce]],$8.80 
 2,1,Chicken Bowl,[Tomatillo Green Chili Salsa, [Green Beans, Black Beans, Cheese, Sour Cream, Lettuce]],$8.80 
 2,1,Chicken Soft Tacos,[Tomatillo Green Chili Salsa, [Rice, Cheese, Guacamole, Green Beans, Lettuce]],$8.46 
