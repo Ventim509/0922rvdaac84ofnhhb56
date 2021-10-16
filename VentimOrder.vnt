@@ -1,16 +1,16 @@
-order_id item_name people dollar
-1 Corn chip 4 $10
-2 Tomato chip 3 $10
-3 Greenchip 2 $10
-4 Fried cheese pork chop 6 $18
-5 Corn cake 5 $15
-6 Sesame cake 4 $15
-7 Butter cake 2 $15
-8 Chicken bowl 6 $12
-9 Popcorn bowl 6 $12
-10 Chips and guacamole 1 $13
-11 Black beans 1 $13
-12 Strawberry cream 6 $16
+order_id,item_name,people,dollar
+1,Corn chip,4,$10
+2,Tomato chip,3,$10
+3,Greenchip,2,$10
+4,Fried cheese pork chop,6,$18
+5,Corn cake,5,$15
+6,Sesame cake,4,$15
+7,Butter cake,2,$15
+8,Chicken bowl,6,$12
+9,Popcorn bowl,6,$12
+10,Chips and guacamole,1,$13
+11,Black beans,1,$13
+12,Strawberry cream,6,$16
 13 White rice 4 $12
 14 Purple rice 3 $16
 15 Chicken rice 4 $12
