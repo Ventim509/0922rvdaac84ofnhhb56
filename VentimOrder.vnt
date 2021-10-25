@@ -22,3 +22,5 @@ order_id,item_name,people,dollar
 21,Miso soup,6,$8
 22,Hydrochloric,4,$8
 23,Air-conditioned meal,1,$21
+24,NULL,NULL,$20
+25,Bubble tea,1,$20
